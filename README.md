@@ -1,10 +1,10 @@
 # metals-auction-model
 
-Valuation model for metals (gold) auctions. Considers:
-- Lot weight, purity
-- Physical delivery lag of underlying asset
-- Risk-free rate, to control for opportunity cost
-- Underlying price volatility
+Valuation model for metals auctions. Considers:
+- Lot weight (g), purity (k)
+- Physical delivery lag of underlying asset (t days)
+- Risk-free rate, to control for opportunity cost (6M treasury yields)
+- Underlying price volatility (2-yr annualized XAU/COP volatility)
 - FX risk
 - Auction and resale transaction fees
 - Debt financing (margin), if any
