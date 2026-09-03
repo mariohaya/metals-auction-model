@@ -1,4 +1,6 @@
 # metals-auction-model
+``model-en.xlsx`` - English
+``model-es.xlsx`` - Español
 
 Valuation model for metals auctions. Considers:
 - Lot weight (g), purity (k)
@@ -12,3 +14,4 @@ Valuation model for metals auctions. Considers:
 Outputs:
 - Maximum bid (zero-NPV of investment), non-risk adjusted.
 - Maximum bid, risk-adjusted
+
