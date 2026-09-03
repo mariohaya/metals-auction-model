@@ -1,6 +1,9 @@
 # metals-auction-model
 ``model-en.xlsx`` - English
+
 ``model-es.xlsx`` - Español
+
+---
 
 Valuation model for metals auctions. Considers:
 - Lot weight (g), purity (k)
